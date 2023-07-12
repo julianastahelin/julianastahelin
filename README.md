@@ -16,7 +16,4 @@ I've been studying Frontend Web Development for seven months. Since then, I've b
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianastahelin&theme=dracula">
 </div>
 
-#### Frameworks and library I'm familiar with
-<p><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></p>
-
 ![Profile views](https://komarev.com/ghpvc/?username=julianastahelin&label=Profile%20views&color=0e75b6&style=flat) 
