@@ -3,7 +3,7 @@
 ### I'm Juliana Stahelin 🙂
 #### A Web Development student.
 
-I've been studying Frontend Web Development for seven months. Since then, I've built some projects using  HTML, CSS, JS, Bootstrap and jQuery and React.
+I've been studying Frontend Web Development for seven months. Since then, I've built some projects using  HTML, CSS, JS, Bootstrap, React and Styled Components.
 
 ⚙️Currently working on improving my portfolio and LinkedIn profile. My next goal is to get into Backend Web Development and become a Fullstack!
 
