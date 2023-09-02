@@ -1,11 +1,11 @@
-## Hey there!👋
+## Hey there!
 
 ### I'm Juliana Stahelin 🙂
 #### A Frontend Web Developer.
 
-I've been studying Frontend Web Development for seven months. Since then, I've built some projects using  HTML, CSS, JS, Bootstrap, React and Styled Components.
+I'm familiar HTML, CSS, Javascript, Typescript, React, Next.js, Tailwind, Bootstrap and Styled Components.
 
-⚙️Currently working on improving my portfolio and LinkedIn profile. My next goal is to work as a Frontend Web Developer!
+⚙️Currently building a project with Next.js, Typescript and Tailwind and learning about authentication.
 
 💊 I'm also a post-graduated pharmacist. I have previous experience in public and family health.
 
