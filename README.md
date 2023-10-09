@@ -18,32 +18,17 @@ I'm familiar with:
 <a href="https://www.typescriptlang.org/" target="_blank">
    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-</a>
 <a href="https://tailwindcss.com/" target="_blank">
    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-</a>
-<a href="https://getbootstrap.com/" target="_blank">
-   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-</a>
-<a href="https://styled-components.com/" target="_blank">
-   <img width="40px" alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
 </a>
 <a href="https://authjs.dev" target="_blank">
    <img width="40px" src="https://authjs.dev/img/logo/logo-sm.png" />
 </a>
 <a href="https://git-scm.com/" target="_blank">
    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</a>
-<a href="https://github.com/" target="_blank">
-   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </a>
 <a href="https://postman.com" target="_blank">
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
