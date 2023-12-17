@@ -1,45 +1,38 @@
-## Hey there!
+## I'm Juliana Stahelin 🙂
+### A Frontend Web Developer.
 
-### I'm Juliana Stahelin 🙂
-#### A Frontend Web Developer.
+I have experience with Next.js, React, Typescript, Javascript, Tailwind, Bootstrap, Styled Components, API Rest and Git. I’m familiar with Node.js, SQL databases, authentication and Postman.
 
-⚙️Currently building projects with Next.js, Typescript and Tailwind and learning about authentication.
+I develop my projects trying to write clean, organised and scalable code.
+I have a passion for learning and I’m constantly working on improving my knowledge and mastering the technologies.
 
-💊 I'm also a post-graduated pharmacist. I have previous experience in public and family health.
+<div align="center">
+	<br>
+	<a href="https://github.com/julianastahelin/julianastahelin/blame/main/technologies.svg">
+		<img src="technologies.svg" width="800" height="300" alt="Click to see the source">
+	</a>
+	<br>
+</div>
 
-I'm familiar with:
 <br />
-<a href="https://nextjs.org/" target="_blank">
-   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-</a>
-<a href="https://react.dev/" target="_blank">
-   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-</a>
-<a href="https://tailwindcss.com/" target="_blank">
-   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-</a>
-<a href="https://authjs.dev" target="_blank">
-   <img width="40px" src="https://authjs.dev/img/logo/logo-sm.png" />
-</a>
-<a href="https://git-scm.com/" target="_blank">
-   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</a>
-<a href="https://postman.com" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org/en" target="_blank">
-   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</a>
-<br>
-<div style="display:flex">
+
+<div align="center">
    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=julianastahelin&theme=dracula">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianastahelin&theme=dracula">
 </div>
+<br />
+
+
+<a href="https://www.linkedin.com/in/julianastahelin/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge with link to my LinkedIn profile" />
+</a>
+<a href="mailto:julianastahelin@gmail.com" target="_blank">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge with link to my email: julianastahelin@gmail.com" />
+</a>
+<a href="https://julianastahelin.vercel.app/" target="_blank">
+   <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Link to my porftolio" />
+</a>
+<br />
+<br />
 
 ![Profile views](https://komarev.com/ghpvc/?username=julianastahelin&label=Profile%20views&color=0e75b6&style=flat) 
