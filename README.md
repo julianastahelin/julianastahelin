@@ -1,5 +1,10 @@
-## I'm Juliana Stahelin 🙂
-### A Frontend Web Developer.
+## Hello there! I'm Juliana Stahelin 👩‍💻
+
+[![Linkedin: Juliana Stahelin](https://img.shields.io/badge/-Juliana_Stahelin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianastahelin/)](https://www.linkedin.com/in/julianastahelin/)
+[![portfolio](https://img.shields.io/badge/My_Portfolio-2f5e55.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://julianastahelin.vercel.app/)](https://julianastahelin.vercel.app/)
+[![Gmail Badge](https://img.shields.io/badge/-julianastahelin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianastahelin@gmail.com)](mailto:julianastahelin@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/julianastahelin?label=Follow&style=social)](https://github.com/julianastahelin/?tab=follow)
+![Profile views](https://komarev.com/ghpvc/?username=julianastahelin&label=Profile%20views&color=dd6387&style=flat) 
 
 I have experience with Next.js, React, Typescript, Javascript, Tailwind, Bootstrap, Styled Components, API Rest and Git. I’m familiar with Node.js, SQL databases, authentication and Postman.
 
@@ -22,17 +27,3 @@ I have a passion for learning and I’m constantly working on improving my knowl
 </div>
 <br />
 
-
-<a href="https://www.linkedin.com/in/julianastahelin/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge with link to my LinkedIn profile" />
-</a>
-<a href="mailto:julianastahelin@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge with link to my email: julianastahelin@gmail.com" />
-</a>
-<a href="https://julianastahelin.vercel.app/" target="_blank">
-   <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Link to my porftolio" />
-</a>
-<br />
-<br />
-
-![Profile views](https://komarev.com/ghpvc/?username=julianastahelin&label=Profile%20views&color=0e75b6&style=flat) 
