@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/julianastahelin?label=Follow&style=social)](https://github.com/julianastahelin/?tab=follow)
 ![Profile views](https://komarev.com/ghpvc/?username=julianastahelin&label=Profile%20views&color=dd6387&style=flat) 
 
-I have experience with Next.js, React, Typescript, Javascript, Tailwind, Bootstrap, Styled Components, API Rest and Git. I’m familiar with Node.js, SQL databases, authentication and Postman.
+I have experience with Next.js, React, Typescript, Javascript, Tailwind, Bootstrap, Styled Components, API Rest and Git. I’m familiar with Node.js, Java, PostgreSQL, authentication and Postman.
 
 I develop my projects trying to write clean, organised and scalable code.
 I have a passion for learning and I’m constantly working on improving my knowledge and mastering the technologies.
