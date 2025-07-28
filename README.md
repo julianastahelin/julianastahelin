@@ -7,23 +7,17 @@
 [![GitHub followers](https://img.shields.io/github/followers/julianastahelin?label=Follow&style=social)](https://github.com/julianastahelin/?tab=follow)
 ![Profile views](https://komarev.com/ghpvc/?username=julianastahelin&label=Profile%20views&color=dd6387&style=flat) 
 
-I have experience with Next.js, React, Typescript, Javascript, Tailwind, Bootstrap, Styled Components, API Rest and Git. I’m familiar with Node.js, Java, PostgreSQL, authentication and Postman.
+I'm a front-end developer with almost 3 years of experience building modern, accessible, and scalable web interfaces. 
 
-I develop my projects trying to write clean, organised and scalable code.
-I have a passion for learning and I’m constantly working on improving my knowledge and mastering the technologies.
+I work mainly with React, TypeScript, Redux, and Material UI, and I'm experienced in integrating REST APIs.
 
-<div align="center">
-	<br>
-	<a href="https://github.com/julianastahelin/julianastahelin/blame/main/technologies.svg">
-		<img src="technologies.svg" width="800" height="300" alt="Click to see the source">
-	</a>
-	<br>
-</div>
+I also use Git, Postman, and Figma in my workflow. 
+
+I'm passionate about writing clean, reusable code and continuously improving my front-end skills.
 
 <br />
 
 <div align="center">
-   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=julianastahelin&theme=dracula">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianastahelin&theme=dracula">
 </div>
 <br />
